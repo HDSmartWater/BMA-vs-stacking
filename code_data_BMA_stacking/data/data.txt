@@ -1,2 +1,2 @@
 The data used in this study are from the CAMELS data set (https://ral.ucar.edu/solutions/products/camels).
-Data are available in release v1.0.0
+Data are available in releases v1.0.0
